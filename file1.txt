@@ -1,1 +1,2 @@
+hello this is git lab
 hi this is rebase file
